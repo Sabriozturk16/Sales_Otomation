@@ -19,7 +19,7 @@ namespace Sales_Otomation
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //Login Page Textboxlara girelen verileri veritabanıyla karşılaştırıp ilgili sayfaya aktaracağız.
         }
     }
 }
